@@ -2,7 +2,8 @@ Hi 👋 My name is Nouran
 =======================
 
 Software - AI Engineer
-----------------------
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
+<br><br>
 
 Software and AI Engineer with expertise in building scalable backend systems using .NET Core. Skilled in Python and machine learning frameworks, with a focus on creating intelligent solutions and optimizing backend architectures to deliver efficient, real-world applications.
 
