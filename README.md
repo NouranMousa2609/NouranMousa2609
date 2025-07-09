@@ -8,8 +8,6 @@ Software - AI Engineer
 
 Software and AI Engineer with expertise in building scalable backend systems using .NET Core. Skilled in Python and machine learning frameworks, with a focus on creating intelligent solutions and optimizing backend architectures to deliver efficient, real-world applications.
 
-*   🌍  I'm based in Egypt
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nouranmousa2609&label=Profile%20views&color=0e75b6&style=flat" alt="nouranmousa2609" /> </p>
 
   
